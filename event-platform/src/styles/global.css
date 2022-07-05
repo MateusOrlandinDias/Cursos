@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+GraphCMS ou HeadlessCMS: Painel de ADMIN (dados fornecidos por API com GraphQL)
+React consome a API do CMS
+*/
+
+/*
+TIPOS DE OPERAÇÕES GRAPHCMS:
+QUERY: BUSCAR DADOS
+MUTATION: CRIAR, ALTERAR OU DELETAR
+*/
