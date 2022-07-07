@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+body{
+    @apply bg-gray-900 text-gray-100;
+    -webkit-font-smoothing: antialiased;
+}
+
 /*
 GraphCMS ou HeadlessCMS: Painel de ADMIN (dados fornecidos por API com GraphQL)
 React consome a API do CMS
